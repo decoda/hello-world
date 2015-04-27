@@ -30,6 +30,8 @@ test(Mode) ->
 	ets:delete(test).
 	
 
+%% test
+
 %%
 %% Local Functions
 %%
