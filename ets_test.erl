@@ -29,6 +29,8 @@ test(Mode) ->
 	io:format("~p~n", [Object]),
 	ets:delete(test).
 	
+update() ->
+        ok.
 
 %% test
 
